@@ -1,4 +1,4 @@
-# Lecturer_DeepLearning_Rome_intro
+# Lecturer DeepLearningItalia Intro
 Public Repository for my Lecturer at Roma La Sapienza | Roma Tor Vergata for Big Data & Analytics Masters
 
 
