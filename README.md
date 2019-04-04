@@ -4,9 +4,9 @@ Public Repository for my Lecturer at Roma La Sapienza | Roma Tor Vergata for Big
 
 ![](images/MDBS.png) 
 
-# My Courses focuses on mathematical backgroud of deep learning models for computer vision systems
+# Hands-On Deep Learning models for computer vision systems
 
-### In detail I covered the following arguments with an Hands-On methodology:
+### Summary:
 
 #### Introduction to Computer Vision Systems and Deep Neural Networks
   - Convolutions | Pooling and other main layers
