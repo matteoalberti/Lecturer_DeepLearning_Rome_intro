@@ -13,7 +13,9 @@ Public Repository for my Lecturer at Roma La Sapienza | Roma Tor Vergata for Big
   - Understand Architectures (this is not a black-box!)
   - From LeNet to the State of the Art (ResNet)
 
-#### Introduction to Object Detection & Semantic Segmentation
+#### Introduction to Object Detection 
+
+#### Introduction to Semantic Segmentation
   - Introduction to Autoencoder [AE]
   - Convolutional Autoencoder [UNet]
   - Capsule Neural Networks [CapsNet]
